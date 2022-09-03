@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba de ingreso</string>
+    <string name="buscar_usuario">Buscar usuario</string>
+    <string name="ver_publicaciones">VER PUBLICACIONES</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="lista_de_post">Lista de post</string>
+</resources>
